@@ -1,0 +1,12 @@
+<!doctype html>
+<title>Mango</title>
+<link rel="stylesheet" href="/css/style.css">
+<div class="header">
+<a href="/"><h1>Mango</h1></a>
+<ul>
+<li><a href="/uptime">Uptime</a>
+<li><a href="/sauce">Sauce</a>
+<li><a href="http://glitchmr.github.com/">Blog</a>
+</ul>
+</div>
+<% content %>

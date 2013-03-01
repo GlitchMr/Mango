@@ -1,0 +1,40 @@
+html {
+  background: #DDA;
+}
+body {
+  width: 758px;
+  margin: 4px auto 8px;
+  padding: 0 8px;
+  background: white;
+  border: 1px solid black;
+  box-shadow: 8px 8px 8px rgba(0,0,0,0.5);
+}
+.header {
+  margin: 0 -8px;
+  height: 200px;
+  background: url(/images/mango.jpg) white no-repeat;
+  border-radius: 0 0 40px;
+  text-transform: lowercase;
+}
+.header h1 {
+  text-indent: 80px;
+  float: left;
+}
+.header ul {
+  float: right;
+  margin-right: 10px;
+  list-style: none;
+  text-align: right;
+}
+pre {
+  background: #EFE;
+  border: 1px dotted #CFC;
+}
+h2 {
+  text-transform: lowercase;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
