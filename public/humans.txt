@@ -1,6 +1,6 @@
 /* TEAM */
     Owner:       Konrad Borowski
-    Contact:     glitchmr@myopera.com	
+    Contact:     glitchmr@myopera.com
     Twitter:     @GlitchMr
     From:        Milanówek, Poland
 
