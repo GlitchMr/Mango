@@ -10,4 +10,4 @@
     Doctype:     HTML5
     IDE:         vim, GIMP, git
     Software:    Perl, Dancer
-    Server:      lighttpd
+    Server:      nginx
